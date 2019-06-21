@@ -4,3 +4,4 @@ List of online coding/programming courses completed:
 	MongoDB University:
 		MongoDB Basics https://university.mongodb.com/courses/M001/about
 		MongoDB Aggregation Framework: https://university.mongodb.com/courses/M121/about
+	React fundamentals: https://reactarmory.com/guides/learn-react-by-itself
