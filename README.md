@@ -6,3 +6,4 @@ List of online coding/programming courses completed:
 		MongoDB Aggregation Framework: https://university.mongodb.com/courses/M121/about
 	React fundamentals: https://reactarmory.com/guides/learn-react-by-itself
 	Azure Fundamentals: https://www.microsoft.com/en-us/learning/azure-fundamentals.aspx
+	Advanced Javascript by Kyle Simpson (Pluralsight)
